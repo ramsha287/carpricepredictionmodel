@@ -21,36 +21,6 @@ Pandas: For data manipulation and analysis.
 
 Scikit-learn: For machine learning model implementation.
 
-Installation
-To run the carWorth app locally, follow these steps:
-
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/carWorth.git
-cd carWorth
-Create a virtual environment and activate it:
-
-bash
-Copy
-Edit
-python -m venv .venv
-source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`
-Install the required dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Streamlit app:
-
-bash
-Copy
-Edit
-streamlit run app.py
-Open the provided URL in your browser to access the app.
 
 Usage
 Once the app is running, you can:
