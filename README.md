@@ -42,7 +42,7 @@ Check Fair Price: Input details of a car and check if its listed price is fair a
 
 ## Link to the Live App:
 
-You can access the live version of the CarWorth app here: https://carworth.streamlit.app/
+You can access the live version of the CarWorth app here: [CarWorth](https://carworth.streamlit.app/)
 
 ## Contributing:
 
